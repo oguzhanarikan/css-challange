@@ -85,16 +85,6 @@ a:hover{
   top: 100px;
 }
 
-.loading-bar{
-  position: absolute;
-  left: 420px;
-  bottom:300px;
-
-
-  margin: auto 190px auto;
-  line-height: 2;
-
-}
 
 .bottom-cloud {
   position: absolute;
